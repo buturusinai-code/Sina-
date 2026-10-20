@@ -1,0 +1,6 @@
+{
+  "name": "NUTRIGOMA BUSINESS",
+  "description": "Aliments pour volailles, entretien & réparation de machines à granulés, formations NUTRIGOMA ACADEMY par Sinaï Buturu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
